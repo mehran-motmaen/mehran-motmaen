@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @mehran-motmaen
-- 👀 I’m interested in python, Django, Network
-- 📫  motmaen73@gmail.com
-
-<!---
-mehran-motmaen/mehran-motmaen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀Since 2016, I have worked as a software developer with experience in Linux, Python, Django, Rest Framework, and Ansible. I enjoy developing unique, user-friendly         applications and have experience working with both startups and established businesses.Back-End development with Python, Django, and Ansible, software debugging and     troubleshooting, and the creation of effective and simple user interfaces are some of my specialties. I can operate independently or cooperatively in a team setting     thanks to my expertise and experience. I'm eager to keep expanding my expertise in the field of software development and am continuously trying to stay current with     industry developments.
+- 📫motmaen73@gmail.com
+- 🖇️https://www.linkedin.com/in/mehran-motmaen/
